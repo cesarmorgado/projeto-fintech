@@ -1,0 +1,13 @@
+<style type="text/css">
+      body{
+        background-color: black;
+      }
+      h1{
+        font-style: italic;
+        color: green;
+      }
+      button, button,button,button{
+        color: green;
+        background-color: white;
+      }
+    </style>
